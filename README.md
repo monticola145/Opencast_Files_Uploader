@@ -5,7 +5,7 @@
 
 Клонируйте репозиторий к себе на устройство:
 ```
-git clone https://git.miem.hse.ru/19102/opencast_uploader.git
+git clone git@github.com:monticola145/Opencast_Files_Uploader.git
 ```
 
 Перейдите в папку с программой:
